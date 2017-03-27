@@ -1,0 +1,69 @@
+.splash {
+    margin-top: 150px;
+    width: 100%;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#branding h1{
+	margin-left: 20px;
+	color: #F5FFFA;
+}
+
+#movie-list{
+background: #206020; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #206020 , #193366); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #206020 , #193366); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.ui-content{
+	background: #206020; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #206020 , #193366); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #206020 , #193366); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+label{
+	font-weight: bold;
+}
+
+#branding{
+	font-family: 'Raleway', sans-serif;
+}
+.ui-page-theme-a .ui-bar-inherit{
+background: #206020; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #206020 , #193366); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #206020 , #193366); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */;
+}
+.ui-input-btn input{
+	background:white;
+}
+
+img{
+	border-style: inset;
+	border-width: 5px;
+}
+h4{
+	color:white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+}
+#movie-detail h1{
+	font-size: 30px;
+	font-family: 'Raleway', sans-serif;
+	color:#F5FFFA;
+}
+.ui-page-theme-a .ui-btn{
+	background: #ff9900;
+}
+
+.ui-page-theme-a .ui-btn:hover{
+	background: #ff9900;
+	color: white;
+}
+
+#movie-detail .ui-page-theme-a .ui-btn:hover{
+	background: #ff9900;
+}
+
+a{
+	text-decoration: none;
+}
